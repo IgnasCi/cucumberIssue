@@ -1,0 +1,9 @@
+target
+.idea
+test-module/reports
+*.iml
+*/gradle
+*/.gradle
+/build
+*/build
+failures
